@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<users>
+  <user>
+    <first_name>Gabriella Micca</first_name>
+    <last_name>Carillo</last_name>
+    <role>admin</role>
+    <username>admin1</username>
+    <password>$2y$10$Lm2/I70nfsmkfd9VRPJxOuYz4RPOWGyg8hOkHX/FNC2zCWyQzRGfC</password>
+  </user>
+  <user>
+    <first_name>Brent</first_name>
+    <last_name>Tepace</last_name>
+    <role>user</role>
+    <username>brenty</username>
+    <password>$2y$10$gb4Bmi99o5tAwc.iTipr9OVxjuf9sannBzVxiIEuyP5JyjhM04aje</password>
+  </user>
+</users>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<students>
+  <student>
+    <photo>photos/IMG_6713 C 4r.jpg</photo>
+    <first_name>Gabriella Micca</first_name>
+    <middle_initial>A</middle_initial>
+    <last_name>Carillo</last_name>
+    <student_id>2022100652</student_id>
+    <email>gabcarillo10@gmail.com</email>
+    <course>BSIT 3B G2</course>
+    <date_joined>2024-11-11</date_joined>
+  </student>
+  <student>
+    <photo>photos/442503078_918060833421268_461581776616769246_n.jpg</photo>
+    <first_name>Brent</first_name>
+    <middle_initial>D</middle_initial>
+    <last_name>Tepace</last_name>
+    <student_id>2022105442</student_id>
+    <email>brenttlm918@gmail.com</email>
+    <course>BSIT 3B G2</course>
+    <date_joined>2023-06-22</date_joined>
+  </student>
+</students>
